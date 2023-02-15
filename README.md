@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamada</h1>
 <h3 align="center">A passionate Laravel developer from Egypt</h3>
 
+<div>
+  <img src="https://github.com/AhmedHamada011/AhmedHamada011/blob/main/images/web-developer.gif?raw=true">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedham&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedham" /> </p>
 
 - 💬 Ask me about **Laravel, PHP, JavaScript**
