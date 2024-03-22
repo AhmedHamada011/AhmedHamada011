@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamada</h1>
-<h3 align="center">A passionate Laravel developer from Egypt</h3>
+<h3 align="center">A passionate Laravel developer</h3>
 
 <div>
   <img src="https://github.com/AhmedHamada011/AhmedHamada011/blob/main/images/web-developer.gif?raw=true">
